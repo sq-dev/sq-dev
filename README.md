@@ -1,11 +1,16 @@
-### <img src="https://media3.giphy.com/media/cdZAGXI45pQ6Q/200w.webp?cid=ecf05e47bl9p22lqiw84me0ugiodtaksl8csls7m2f8toawc&rid=200w.webp&ct=s" width="50">  Hi I'm Asrorov Said
+### <img src="https://media3.giphy.com/media/cdZAGXI45pQ6Q/200w.webp?cid=ecf05e47bl9p22lqiw84me0ugiodtaksl8csls7m2f8toawc&rid=200w.webp&ct=s" width="50">  Hi I'm Asrorov Said  <img src="https://profile-counter.glitch.me/sq-dev/count.svg" width="170" height="20">
 ```php
 <?php
 
 namespace AsrorovSaid;
 
-class About extends Me
+final class About extends Me
 {
+    public $contacts = [
+        'Telagram' => 'AsrorovSaid',
+        'Instagram' => 'asrorov.saidazam'
+    ];
+    
     public function getCurrentWorkplace(): array
     {
         return [
@@ -28,3 +33,6 @@ class About extends Me
     }
 }
 ```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sq-dev&hide=html&show_icons=true&locale=en&theme=tokyonight)
+
+
