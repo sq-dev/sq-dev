@@ -1,16 +1,30 @@
-### Hi there 👋
+### <img src="https://media3.giphy.com/media/cdZAGXI45pQ6Q/200w.webp?cid=ecf05e47bl9p22lqiw84me0ugiodtaksl8csls7m2f8toawc&rid=200w.webp&ct=s" width="50">  Hi I'm Asrorov Said
+```php
+<?php
 
-<!--
-**sq-dev/sq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+namespace AsrorovSaid;
 
-Here are some ideas to get you started:
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Alif Tech',
+                'position' => 'Backend'         
+            ]
+        ];
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Python::class,
+        ];
+    }
+}
+```
