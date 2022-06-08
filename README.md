@@ -33,6 +33,7 @@ final class About extends Me
     }
 }
 ```
+### <img src="https://media1.giphy.com/media/aoydQ5HRJUAbm/200w.webp?cid=ecf05e47o0tp0ekam8nvvne2ishova5durnotvi6fz1vacq5&rid=200w.webp&ct=s" width="100"> Languages & Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sq-dev&hide=html&show_icons=true&locale=en&theme=tokyonight)
 
 
