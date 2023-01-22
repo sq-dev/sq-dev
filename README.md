@@ -7,15 +7,14 @@ namespace AsrorovSaid;
 final class About extends Me
 {
     public $contacts = [
-        'Telagram' => 'AsrorovSaid',
-        'Instagram' => 'asrorov.saidazam'
+        'Telagram' => 'Caidazam'
     ];
     
     public function getCurrentWorkplace(): array
     {
         return [
             'workplace' => [
-                'company' => 'Alif Tech',
+                'company' => 'Alif',
                 'position' => 'Backend'         
             ]
         ];
@@ -45,7 +44,7 @@ final class About extends Me
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+BTW, I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
 
