@@ -47,6 +47,6 @@ final class About extends Me
 BTW, I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
-
+I wanted to apologize for my recent decision to use PHP. Upon reflection, I realize that it was a mistake, and I am sorry for any inconvenience or frustration it may have caused. I have learned from this experience and will make sure to avoid using PHP in the future.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sq-dev&hide=html&show_icons=true&locale=en&theme=tokyonight) 
